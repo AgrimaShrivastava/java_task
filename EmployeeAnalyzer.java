@@ -41,7 +41,7 @@ public class EmployeeAnalyzer {
 
     public static void main(String[] args) {
         // Provide the path to your input file
-        String filePath = "C:\\Users\\91964\\Desktop\\Assignment_Timecard.xlsx - Sheet1.csv";
+        String filePath = "Assignment_Timecard.xlsx - Sheet1.csv"; // Name of the file will be written here
 
         try {
             List<Employee> employees = processFile(filePath);
@@ -53,8 +53,6 @@ public class EmployeeAnalyzer {
             e.printStackTrace();
         }
     }
-
-    // ... (rest of the code remains unchanged)
 
     private static List<Employee> processFile(String filePath) throws IOException, ParseException {
         List<Employee> employees = new ArrayList<>();
@@ -83,8 +81,6 @@ public class EmployeeAnalyzer {
         return employees;
     }
 
-
-
     private static Employee findEmployee(List<Employee> employees, String name, String position) {
         for (Employee employee : employees) {
             if (employee.getName().equals(name) && employee.getPosition().equals(position)) {
@@ -104,9 +100,10 @@ public class EmployeeAnalyzer {
             if (hasWorkedForConsecutiveDays(employee, 7)) {
                 System.out.println("Name: "+employee.name + " Position: "+ employee.position);
             }
-        }   
-        
-        System.out.println("\n--------------------------------------");
+        }  
+	    
+        //just for separation
+        System.out.println("\n--------------------------------------"); 
     	System.out.println("Employees who has less than 10 hours between shifts but greater than 1 hour: ");
         for (Employee employee : employees)
         {
@@ -115,7 +112,8 @@ public class EmployeeAnalyzer {
             }	
         }
 
-        System.out.println("\n--------------------------------------");
+	//just for separation    
+        System.out.println("\n--------------------------------------"); 
     	System.out.println("Employees who has worked for more than 14 hours in a single shift: ");
         for (Employee employee : employees)
         {
