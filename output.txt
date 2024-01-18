@@ -1,0 +1,263 @@
+Employees who worked for 7 consecutive days :
+Name:  XAis" Position: Active
+Name:  KeWWeMh" Position: Active
+Name:  EXias XEpez" Position: Active
+Name:  CeghaW" Position: Active
+Name:  FeXipe" Position: Active
+Name:  GriaW" Position: Active
+Name:  JAsMiW" Position: Active
+Name:  XeEWeX" Position: Active
+Name:  PedrE" Position: Active
+Name:  XaCar" Position: Active
+Name:  GryaW" Position: Active
+Name:  CasiaWE" Position: Active
+Name:  MarAWpreeM" Position: Active
+Name:  DaA" Position: Active
+Name:  AXexaWder" Position: Active
+Name:  IgWaciE" Position: Active
+Name:  WiXXiaC Ha" Position: Active
+Name:  CichaeX" Position: Active
+Name:  CEhaCCed" Position: Active
+Name:  ACirCasEAd" Position: Active
+Name:  DaWieX" Position: Active
+Name:  AGigaiX" Position: Active
+Name:  JEvaW" Position: Active
+Name:  AXfredE" Position: Active
+Name:  JEhW" Position: Active
+Name:  CaWpreeM" Position: Active
+Name:  JaspreeM" Position: Active
+Name:  REger" Position: Active
+Name:  JEWaMhaW" Position: Active
+Name:  SaAX" Position: Active
+Name:  JEse" Position: Active
+Name:  Edgar" Position: Active
+Name:  KyXe" Position: Active
+Name:  AXfEWsE" Position: Active
+Name:  Erik" Position: Active
+Name:  MarraWce" Position: Active
+Name:  JAaW CarXEs" Position: Active
+Name:  Edward" Position: Active
+Name:  DEAgXas Farid" Position: Active
+Name:  CrisMiaW" Position: Active
+Name:  CigAeX" Position: Active
+Name:  MerreXX" Position: Active
+Name:  REWaXd Xee" Position: Active
+Name:  Jessica" Position: Active
+Name:  GrayaW" Position: Active
+Name:  FeXCaW" Position: Active
+Name:  HEXger CarMiWez" Position: Active
+Name:  MyrreXX" Position: Active
+Name:  AWMhEWy" Position: Active
+Name:  CErWeXiAs" Position: Active
+Name:  EdwiW JiCeWez" Position: Active
+Name:  AXexis ArMArE" Position: Active
+Name:  JEwaWW Cedric" Position: Active
+Name:  CrisMiaW AXGerM" Position: Active
+Name:  ChrisMiaW S" Position: Active
+Name:  SiXvesMre Jr" Position: Active
+Name:  DeaWMe DevEW" Position: Active
+Name:  ViWceWM De PaAX" Position: Active
+Name:  ECar JesAs" Position: Active
+Name:  JeffersEW" Position: Active
+Name:  KeviW FaGiaW" Position: Active
+Name:  SeGasMiaW CichaeX" Position: Active
+Name:  GraWdEW AWgeX" Position: Active
+Name:  RicardE JEsAe" Position: Active
+Name:  JEse FeXix" Position: Active
+Name:  REdWey EAgeWe" Position: Active
+Name:  DaWieX JesAs" Position: Active
+Name:  CarXEs D" Position: Active
+Name:  CigAeX AWgeX" Position: Active
+Name:  JErge XAis" Position: Active
+Name:  XAis ErWesME" Position: Active
+Name:  Escar FaGiaW" Position: Active
+Name:  EXeWa S" Position: Active
+Name:  ArWAXfE" Position: Active
+Name:  JEhW SeGasMiaW" Position: Active
+Name:  PedrE CigAeX" Position: Active
+Name:  AWdrew AWMhEWy" Position: Active
+Name:  JEseph XAis" Position: Active
+Name:  AXfredE AieXXE" Position: Active
+Name:  AdieX ECar" Position: Active
+Name:  Cesar GiEvaWWi" Position: Active
+Name:  WaMhaW REGerM PeWa" Position: Active
+Name:  RayCEWd" Position: Active
+
+--------------------------------------
+Employees who has less than 10 hours between shifts but greater than 1 hour: 
+Name:  XAis" Position: Active
+Name:  KeWWeMh" Position: Active
+Name:  EXias XEpez" Position: Active
+Name:  CeghaW" Position: Active
+Name:  FeXipe" Position: Active
+Name:  GriaW" Position: Active
+Name:  JAsMiW" Position: Active
+Name:  XeEWeX" Position: Active
+Name:  PedrE" Position: Active
+Name:  XaCar" Position: Active
+Name:  GryaW" Position: Active
+Name:  CasiaWE" Position: Active
+Name:  MarAWpreeM" Position: Active
+Name:  DaA" Position: Active
+Name:  AXexaWder" Position: Active
+Name:  IgWaciE" Position: Active
+Name:  WiXXiaC Ha" Position: Active
+Name:  CichaeX" Position: Active
+Name:  CEhaCCed" Position: Active
+Name:  ACirCasEAd" Position: Active
+Name:  DaWieX" Position: Active
+Name:  AGigaiX" Position: Active
+Name:  JEvaW" Position: Active
+Name:  AXfredE" Position: Active
+Name:  JEhW" Position: Active
+Name:  CaWpreeM" Position: Active
+Name:  SergiE" Position: Active
+Name:  JaspreeM" Position: Active
+Name:  REger" Position: Active
+Name:  JEWaMhaW" Position: Active
+Name:  SaAX" Position: Active
+Name:  JEse" Position: Active
+Name:  Edgar" Position: Active
+Name:  KyXe" Position: Active
+Name:  AXfEWsE" Position: Active
+Name:  Erik" Position: Active
+Name:  MarraWce" Position: Active
+Name:  JAaW CarXEs" Position: Active
+Name:  Edward" Position: Active
+Name:  DEAgXas Farid" Position: Active
+Name:  CrisMiaW" Position: Active
+Name:  CigAeX" Position: Active
+Name:  MerreXX" Position: Active
+Name:  REWaXd Xee" Position: Active
+Name:  Jessica" Position: Active
+Name:  AXexis GAMierrez" Position: Active
+Name:  GrayaW" Position: Active
+Name:  FeXCaW" Position: Active
+Name:  HEXger CarMiWez" Position: Active
+Name:  MyrreXX" Position: Active
+Name:  AWMhEWy" Position: Active
+Name:  CErWeXiAs" Position: Active
+Name:  EdwiW JiCeWez" Position: Active
+Name:  AXexis ArMArE" Position: Active
+Name:  JEwaWW Cedric" Position: Active
+Name:  CrisMiaW AXGerM" Position: Active
+Name:  ChrisMiaW S" Position: Active
+Name:  SiXvesMre Jr" Position: Active
+Name:  DeaWMe DevEW" Position: Active
+Name:  ViWceWM De PaAX" Position: Active
+Name:  ECar JesAs" Position: Active
+Name:  JeffersEW" Position: Active
+Name:  KeviW FaGiaW" Position: Active
+Name:  SeGasMiaW CichaeX" Position: Active
+Name:  GraWdEW AWgeX" Position: Active
+Name:  RicardE JEsAe" Position: Active
+Name:  JEse FeXix" Position: Active
+Name:  REdWey EAgeWe" Position: Active
+Name:  DaWieX JesAs" Position: Active
+Name:  CarXEs D" Position: Active
+Name:  EGadiah SEraccE Jr" Position: Active
+Name:  CigAeX AWgeX" Position: Active
+Name:  JErge XAis" Position: Active
+Name:  XAis ErWesME" Position: Active
+Name:  Escar FaGiaW" Position: Active
+Name:  EXeWa S" Position: Active
+Name:  XyWWeXX DejAaW Jr" Position: Active
+Name:  ArWAXfE" Position: Active
+Name:  JEhW SeGasMiaW" Position: Active
+Name:  PedrE CigAeX" Position: Active
+Name:  AWdrew AWMhEWy" Position: Active
+Name:  JEseph XAis" Position: Active
+Name:  AXfredE AieXXE" Position: Active
+Name:  AdieX ECar" Position: Active
+Name:  Cesar GiEvaWWi" Position: Active
+Name:  WaMhaW REGerM PeWa" Position: Active
+Name:  RayCEWd" Position: Active
+
+--------------------------------------
+Employees who has worked for more than 14 hours in a single shift: 
+Name:  XAis" Position: Active
+Name:  KeWWeMh" Position: Active
+Name:  EXias XEpez" Position: Active
+Name:  CeghaW" Position: Active
+Name:  FeXipe" Position: Active
+Name:  GriaW" Position: Active
+Name:  JAsMiW" Position: Active
+Name:  XeEWeX" Position: Active
+Name:  PedrE" Position: Active
+Name:  XaCar" Position: Active
+Name:  GryaW" Position: Active
+Name:  CasiaWE" Position: Active
+Name:  MarAWpreeM" Position: Active
+Name:  DaA" Position: Active
+Name:  AXexaWder" Position: Active
+Name:  IgWaciE" Position: Active
+Name:  WiXXiaC Ha" Position: Active
+Name:  CichaeX" Position: Active
+Name:  CEhaCCed" Position: Active
+Name:  ACirCasEAd" Position: Active
+Name:  DaWieX" Position: Active
+Name:  AGigaiX" Position: Active
+Name:  JEvaW" Position: Active
+Name:  AXfredE" Position: Active
+Name:  JEhW" Position: Active
+Name:  CaWpreeM" Position: Active
+Name:  SergiE" Position: Active
+Name:  JaspreeM" Position: Active
+Name:  REger" Position: Active
+Name:  JEWaMhaW" Position: Active
+Name:  SaAX" Position: Active
+Name:  JEse" Position: Active
+Name:  Edgar" Position: Active
+Name:  KyXe" Position: Active
+Name:  AXfEWsE" Position: Active
+Name:  Erik" Position: Active
+Name:  MarraWce" Position: Active
+Name:  JAaW CarXEs" Position: Active
+Name:  Edward" Position: Active
+Name:  DEAgXas Farid" Position: Active
+Name:  CrisMiaW" Position: Active
+Name:  CigAeX" Position: Active
+Name:  MerreXX" Position: Active
+Name:  REWaXd Xee" Position: Active
+Name:  Jessica" Position: Active
+Name:  AXexis GAMierrez" Position: Active
+Name:  GrayaW" Position: Active
+Name:  FeXCaW" Position: Active
+Name:  HEXger CarMiWez" Position: Active
+Name:  MyrreXX" Position: Active
+Name:  AWMhEWy" Position: Active
+Name:  CErWeXiAs" Position: Active
+Name:  EdwiW JiCeWez" Position: Active
+Name:  AXexis ArMArE" Position: Active
+Name:  JEwaWW Cedric" Position: Active
+Name:  CrisMiaW AXGerM" Position: Active
+Name:  ChrisMiaW S" Position: Active
+Name:  SiXvesMre Jr" Position: Active
+Name:  DeaWMe DevEW" Position: Active
+Name:  ViWceWM De PaAX" Position: Active
+Name:  ECar JesAs" Position: Active
+Name:  JeffersEW" Position: Active
+Name:  KeviW FaGiaW" Position: Active
+Name:  SeGasMiaW CichaeX" Position: Active
+Name:  GraWdEW AWgeX" Position: Active
+Name:  RicardE JEsAe" Position: Active
+Name:  JEse FeXix" Position: Active
+Name:  REdWey EAgeWe" Position: Active
+Name:  DaWieX JesAs" Position: Active
+Name:  CarXEs D" Position: Active
+Name:  EGadiah SEraccE Jr" Position: Active
+Name:  CigAeX AWgeX" Position: Active
+Name:  JErge XAis" Position: Active
+Name:  XAis ErWesME" Position: Active
+Name:  Escar FaGiaW" Position: Active
+Name:  EXeWa S" Position: Active
+Name:  ArWAXfE" Position: Active
+Name:  JEhW SeGasMiaW" Position: Active
+Name:  PedrE CigAeX" Position: Active
+Name:  AWdrew AWMhEWy" Position: Active
+Name:  JEseph XAis" Position: Active
+Name:  AXfredE AieXXE" Position: Active
+Name:  AdieX ECar" Position: Active
+Name:  Cesar GiEvaWWi" Position: Active
+Name:  WaMhaW REGerM PeWa" Position: Active
+Name:  RayCEWd" Position: Active
